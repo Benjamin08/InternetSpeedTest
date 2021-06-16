@@ -1,0 +1,8 @@
+
+date: 2021-06-15 21:24:11.477765
+our downspeed: 15.79 mbps
+our upspeed: 1.61 mbps
+
+date: 2021-06-15 21:41:41.469441
+our downspeed: 31.1 mbps
+our upspeed: 2.22 mbps
